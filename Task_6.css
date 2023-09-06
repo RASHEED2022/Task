@@ -1,0 +1,112 @@
+body{
+    margin: 100px;
+    margin-top: 100px;
+}
+td,tr{
+    padding: 5px;
+    padding-right: 200px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    background-color: #18d0c4f2;
+    border-radius: 30px;
+}
+table,th{
+    padding-right: 200px;
+    padding: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(2, 2, 2);
+    background-color: #18d0c4f2;
+    border-radius: 20px;
+}
+.b
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX1
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX2
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 35px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX3
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX4
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX5
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 1px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX6
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 35px 0px 35px 0px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX7
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 50px;
+    display: inline-block;
+    margin: 20px;
+}
+.BOX8
+{
+    border-style: solid;
+    border-color: #aeff3cf2;
+    height: 70px;
+    width: 130px;
+    border-radius: 0px 35px 0px 35px;
+    display: inline-block;
+    margin: 20px;
+}
