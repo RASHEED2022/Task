@@ -1,0 +1,16 @@
+body {
+    margin: 50px;
+}
+
+#LINKS {
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 350px;
+    background-color: rgb(242, 233, 233);
+}
+a {
+    color: rgb(51, 51, 207);
+}
